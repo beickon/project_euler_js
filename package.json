@@ -1,0 +1,11 @@
+{
+  "name": "project_euler_js",
+  "version": "1.0.0",
+  "description": "Project Euler made out of JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Francisco Garcia",
+  "license": "ISC"
+}
